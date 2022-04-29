@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651076061 source:d:\bingxing\homework-x86\p(3)+sse\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<xmmintrin.h>
+	<fstream>
+	<immintrin.h>
+	<pthread.h>
+	<semaphore.h>
+

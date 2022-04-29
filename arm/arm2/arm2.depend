@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651156196 source:d:\bingxing\homework-x86\arm2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<sys/time.h>
+

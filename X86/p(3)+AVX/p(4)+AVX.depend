@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651155519 source:d:\bingxing\homework-x86\p(4)+avx\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<xmmintrin.h>
+	<fstream>
+	<immintrin.h>
+	<pthread.h>
+	<semaphore.h>
+

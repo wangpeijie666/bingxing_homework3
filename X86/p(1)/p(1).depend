@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651066270 source:d:\bingxing\homework-x86\p(1)\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<xmmintrin.h>
+	<immintrin.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+
